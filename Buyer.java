@@ -1,6 +1,7 @@
 
 
 /**
+<<<<<<< HEAD
  * switch to branch feature_2.0
  * @author Fanuelal - 	Bdu1207418
  * @author Hailat66 - BDU1201897
