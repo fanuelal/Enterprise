@@ -1,12 +1,19 @@
 
 
 /**
- * @author Fanuelal - Bdu1207418
+ * switch to branch feature_2.0
+ * @author Fanuelal - 	Bdu1207418
  * @author Hailat66 - BDU1201897
+<<<<<<< HEAD
  * @author jerry  -  BDu1202064
 *  @author kidist - BDU1207423
 *@author abdureuf - BDU1200676
 *@author Aderaw  -bdu 1200811
+=======
+ * @author jerry - BDu1202064
+ *@author aderaw  -bdu 1200811
+ * @author group 5
+>>>>>>> master
  * @version 1.0
  * @created 11-May-2022 9:29:45 PM
  */
