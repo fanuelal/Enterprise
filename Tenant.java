@@ -9,7 +9,7 @@
 
  * @version 1.0
  * @created 11-May-2022 9:29:52 PM
- */
+ *///this is acomment in tenant.java
  public class student{
 	 studname String;
 	 studId int;
